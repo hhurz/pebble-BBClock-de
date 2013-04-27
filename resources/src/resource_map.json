@@ -1,0 +1,39 @@
+{
+    "friendlyVersion": "dev_0.0",
+    "versionDefName": "APP_RESOURCES",
+
+    "media": [
+
+	{
+        "type": "png",
+        "defName": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon_bb.png"
+	},
+
+	{
+        "type": "font",
+        "defName": "FONT_ROBOTO_CONDENSED_16",
+        "file": "fonts/Roboto-Condensed.ttf"
+  },
+	
+	{
+        "type": "png",
+        "defName": "IMAGE_BACKGROUND",
+        "file": "images/bb_background.png"
+	},
+
+	{
+        "type": "png",
+        "defName": "IMAGE_HOUR_HAND",
+        "file": "images/bb_hour_hand.png"
+	},
+
+	{
+        "type": "png",
+        "defName": "IMAGE_MINUTE_HAND",
+        "file": "images/bb_minute_hand.png"
+	}
+
+    ]
+}
+
